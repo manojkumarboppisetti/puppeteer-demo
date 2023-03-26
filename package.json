@@ -1,0 +1,20 @@
+{
+  "name": "puppeteer-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "json-2-csv": "^4.0.0",
+    "moment": "^2.29.4",
+    "npm": "^9.6.2",
+    "puppeteer": "^19.8.0"
+  }
+}
